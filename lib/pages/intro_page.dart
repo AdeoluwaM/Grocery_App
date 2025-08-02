@@ -18,6 +18,7 @@ class IntroPage extends StatelessWidget {
               bottom: 40,
               top: 160,
             ),
+            // wrap image in circle avatar
             child: Image.asset('lib/images/avocado.png'),
           ),
           // We deliver groceries to your doorstep
